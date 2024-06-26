@@ -97,6 +97,7 @@ scheduler = sched.scheduler(time.time, time.sleep)
 
 
 def set_correct_char():
+    print("Attempting to set correct char")
     global correct_char
     count = db.get_character_count()
     rand_id = random.randrange(1, count)
@@ -119,8 +120,9 @@ def set_correct_char():
 
 
 def set_daily_reset(scheduler):
+    print("Daily Reset")
     now = datetime.now(UTC)
-    reset = now.replace(hour=0, minute=0, second=0, microsecond=0)
+    reset = now.replace(hour=10, minute=20, second=0, microsecond=0)
     if now > reset:
         reset += timedelta(days=1)
     time_until_reset = (reset - now).total_seconds()
