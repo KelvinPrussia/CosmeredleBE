@@ -10,7 +10,8 @@ DATABASE_URL = os.getenv('DATABASE_URL')
 
 conn_pool = psycopg2.pool.SimpleConnectionPool(1,
                                                97,
-                                               dsn=DATABASE_URL)
+                                               dsn=DATABASE_URL,
+                                               sslmode="disable")
 
 
 if conn_pool:

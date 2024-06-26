@@ -122,7 +122,7 @@ def set_correct_char():
 def set_daily_reset(scheduler):
     print("Daily Reset")
     now = datetime.now(UTC)
-    reset = now.replace(hour=10, minute=20, second=0, microsecond=0)
+    reset = now.replace(hour=10, minute=45, second=0, microsecond=0)
     if now > reset:
         reset += timedelta(days=1)
     time_until_reset = (reset - now).total_seconds()
@@ -137,4 +137,4 @@ scheduler_thread.daemon = True
 scheduler_thread.start()
 
 if __name__ == "__main__":
-    app.run()
+    app.run(debug=True)
