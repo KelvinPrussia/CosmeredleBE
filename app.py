@@ -1,8 +1,7 @@
 import random
 import sched
 import time
-from datetime import datetime, timedelta, UTC
-from threading import Thread
+from datetime import datetime, UTC
 
 from flask import Flask, jsonify
 from flask_restful import Resource, Api
@@ -38,11 +37,15 @@ class CorrectChar(Resource):
         return character_data
 
 
+class ResetCorrectChar(Resource):
+    def post(self):
+        set_correct_char()
+
+
 api.add_resource(CharacterList, "/list")
 api.add_resource(GuessResult, "/guess/<character_name>")
 api.add_resource(CorrectChar, "/correctchar")
-
-scheduler = sched.scheduler(time.time, time.sleep)
+api.add_resource(ResetCorrectChar, "/resetchar")
 
 
 def check_matches(guess, correct):
@@ -118,25 +121,7 @@ def set_correct_char():
         db.insert_to_prev_chars(rand_id, date)
 
 
-def set_daily_reset(scheduler):
-    print("setting next reset")
-    now = datetime.now(UTC)
-    print("date/time now: ", now)
-    reset = now.replace(hour=13, minute=8, second=0, microsecond=0)
-    if now > reset:
-        reset += timedelta(days=1)
-    print("reset date/time: ", reset)
-    time_until_reset = (reset - now).total_seconds()
-    print("time left:", time_until_reset / 60)
-    scheduler.enter(time_until_reset, 1, set_correct_char)
-    scheduler.enter(time_until_reset, 1, set_daily_reset, (scheduler,))
-
-
 set_correct_char()
-set_daily_reset(scheduler)
-scheduler_thread = Thread(target=scheduler.run)
-scheduler_thread.daemon = True
-scheduler_thread.start()
 
 if __name__ == "__main__":
     app.run()
