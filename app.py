@@ -42,6 +42,8 @@ api.add_resource(CharacterList, "/list")
 api.add_resource(GuessResult, "/guess/<character_name>")
 api.add_resource(CorrectChar, "/correctchar")
 
+scheduler = sched.scheduler(time.time, time.sleep)
+
 
 def check_matches(guess, correct):
     guess_result = {"name": [guess["name"], 2],
@@ -93,9 +95,6 @@ def compare_lists(guess_list, correct_list):
         return 0
 
 
-scheduler = sched.scheduler(time.time, time.sleep)
-
-
 def set_correct_char():
     print("Attempting to set correct char")
     global correct_char
@@ -120,11 +119,15 @@ def set_correct_char():
 
 
 def set_daily_reset(scheduler):
+    print("setting next reset")
     now = datetime.now(UTC)
-    reset = now.replace(hour=0, minute=0, second=0, microsecond=0)
+    print("date/time now: ", now)
+    reset = now.replace(hour=13, minute=8, second=0, microsecond=0)
     if now > reset:
         reset += timedelta(days=1)
+    print("reset date/time: ", reset)
     time_until_reset = (reset - now).total_seconds()
+    print("time left:", time_until_reset / 60)
     scheduler.enter(time_until_reset, 1, set_correct_char)
     scheduler.enter(time_until_reset, 1, set_daily_reset, (scheduler,))
 
@@ -136,4 +139,4 @@ scheduler_thread.daemon = True
 scheduler_thread.start()
 
 if __name__ == "__main__":
-    app.run(debug=True)
+    app.run()
