@@ -1,6 +1,4 @@
 import random
-import sched
-import time
 from datetime import datetime, UTC
 
 from flask import Flask, jsonify
