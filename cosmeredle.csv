@@ -1,150 +1,166 @@
 Name,Home World,First Appearance,Species,Abilities
-Kaladin,Roshar,The Way of Kings,Human (Alethi),"Knight Radiant, Windrunner, Shardbearer"
 Adolin Kholin,Roshar,The Way of Kings,Human (Alethi),Shardbearer
-Shallan Davar,Roshar,The Way of Kings,Human (Veden),"Knight Radiant, Lightweaver, Shardbearer"
-Vin,Scadrial,The Final Empire,Human (Skaa),"Mistborn, Hemalurgy, Sliver, Shard Vessel"
-Waxillium Ladrian,Scadrial,The Alloy of Law,Human (Terris),"Mistborn, Twinborn, Hemalurgy, Coinshot, Skimmer"
-Kelsier,Scadrial,The Final Empire,Human (Skaa),"Mistborn, Hemalurgy, Cognitive Shadow, Sliver, Shard Vessel"
-Sylphrena,Roshar,The Way of Kings,Spren (Honorspren),"Nahel bond, Splinter, Windrunner"
-Vasher,Nalthis,Warbreaker,Human (Unspecified),"Returned, Awakener, Worldhopper, Cognitive Shadow, Shardbearer"
-Vivenna,Nalthis,Warbreaker,Human (Idrian),"Royal Locks, Awakener, Shardbearer, Worldhopper"
-Susebron,Nalthis,Warbreaker,Human (Hallandren),"Returned, Awakener, Cognitive Shadow"
-Siri,Nalthis,Warbreaker,Human (Idrian),Royal Locks
-Allrianne Cett,Scadrial,The Well of Ascension,Human (Noble),"Rioter, Misting"
-Dalinar Kholin,Roshar,The Way of Kings,Human (Alethi),"Knight Radiant, Bondsmith, Old Magic, Shardbearer"
-Dockson,Scadrial,The Final Empire,Human (Skaa),Uninvested
-Elegy,Canticle,The Sunlit Man,Human (Threnodite),Charred
-Elend Venture,Scadrial,The Final Empire,Human (Noble),Mistborn
-Eshonai,Roshar,The Way of Kings,Singer (Listener),"Forms of Power, Shardbearer, Willshaper"
-Timbre,Roshar,Words of Radiance,Spren (Reacher),"Nahel Bond, Splinter, Willshaper"
-Hoid,Yolen,Elantris,Human (Yolish),"Lightweaver, Mistborn, Awakener, Elantrian, Worldhopper, Dawnshard"
-Jasnah Kholin,Roshar,The Way of Kings,Human (Alethi),"Knight Radiant, Elsecaller, Shardbearer"
-Elhokar Kholin,Roshar,The Way of Kings,Human (Alethi),"Knight Radiant, Lightweaver, Shardbearer"
-Kalak,Ashyn,The Way of Kings,Human (Herald),"Cognitive Shadow, Shardbearer"
-Jezrien,Ashyn,The Way of Kings,Human (Herald),"Cognitive Shadow, Shardbearer"
-Raoden,Sel,Elantris,Human (Aonic),Elantrian
-Xisis,Yolen,Tress of the Emerald Sea,Dragon (Unspecified),"Worldhopper, Awakener"
-Koravellium Avast,Yolen,Oathbringer,Dragon (Unspecified),Shard Vessel
-Amaram,Roshar,The Way of Kings,Human (Alethi),Shardbearer
-Torol Sadeas,Roshar,The Way of Kings,Human (Alethi),Shardbearer
-Ivory,Roshar,Words of Radiance,Spren (Inkspren),"Nahel bond, Splinter, Elsecaller"
-Pattern,Roshar,The Way of Kings,Spren (Cryptic),"Nahel bond, Splinter, Lightweaver"
-Wyndle,Roshar,Words of Radiance,Spren (Cultivationspren),"Nahel bond, Splinter, Edgedancer"
-Glys,Roshar,Oathbringer,Spren (Mistspren),"Nahel bond, Splinter, Truthwatcher"
-Mayalaran,Roshar,The Way of Kings,Spren (Cultivationspren),"Nahel bond, Splinter, Edgedancer, Deadeye"
-Stormfather,Roshar,The Way of Kings,Spren (Bondsmith),"Nahel bond, Splinter, Bondsmith, Sliver, Cognitive Shadow"
-Nightwatcher,Roshar,Oathbringer,Spren (Bondsmith),"Nahel bond, Splinter, Bondsmith, Old Magic"
-Sibling,Roshar,Words of Radiance,Spren (Bondsmith),"Nahel Bond, Splinter, Bondsmith"
-Sja-anat,Roshar,Oathbringer,Spren (Unmade),Splinter
-Venli,Roshar,Words of Radiance,Singer (Listener),"Forms of Power, Willshaper"
-Szeth,Roshar,The Way of Kings,Human (Shin),"Knight Radiant, Skybreaker, Shardbearer"
-Renarin Kholin,Roshar,The Way of Kings,Human (Altehi),"Knight Radiant, Truthwatcher, Voidbinder, Shardbearer"
-Navani Kholin,Roshar,The Way of Kings,Human (Alethi),"Knight Radiant, Bondsmith"
-Lift,Roshar,Words of Radiance,Human (Reshi),"Knight Radiant, Edgedancer, Shardbearer, Old Magic"
-Moash,Roshar,The Way of Kings,Human (Alethi),Shardbearer
-Taravangian,Roshar,The Way of Kings,Human (Kharbranthian),"Old Magic, Shard Vessel"
-Talenel,Ashyn,The Way of Kings,Human (Herald),"Cognitive Shadow, Shardbearer"
-Khriss,Taldain,The Bands of Mourning,Human (Darksider),"Worldhopper, Starmarks"
-Sazed,Scadrial,The Final Empire,Human (Terris),"Feruchemist, Shard Vessel"
-Marsh,Scadrial,The Final Empire,Human (Skaa),"Seeker, Hemalurgy"
-Spook,Scadrial,The Final Empire,Human (Skaa),"Tineye, Misting, Mistborn, Hemalurgy, Savant"
-Breeze,Scadrial,The Final Empire,Human (Noble),"Soother, Misting"
-Hammond,Scadrial,The Final Empire,Human (Skaa),"Pewterarm, Misting"
-Clubs,Scadrial,The Final Empire,Human (Skaa),"Smoker, Misting"
-Straff Venture,Scadrial,The Final Empire,Human (Noble),"Tineye, Misting"
-Zane Venture,Scadrial,The Well of Ascension,Human (Noble),"Mistborn, Hemalurgy"
-Ashweather Cett,Scadrial,The Well of Ascension,Human (Noble),Uninvested
-Tindwyl,Scadrial,The Well of Ascension,Human (Terris),Feruchemist
-TenSoon,Scadrial,The Final Empire,Kandra (Third Generation),"Blessing of Presence, Blessing of Potency, Shapeshifting"
-MeLaan,Scadrial,The Hero of Ages,Kandra (Seventh Generation),"Worldhopper, Shapeshifting"
-Paalm,Scadrial,The Alloy of Law,Kandra (Third Generation),"Hemalurgy, Shapeshifting"
-Quellion,Scadrial,The Hero of Ages,Human (Skaa),Hemalurgy
-Beldre,Scadrial,The Hero of Ages,Human (Skaa),"Coinshot, Misting"
-Rashek,Scadrial,The Final Empire,Human (Terris),"Feruchemist, Sliver, Mistborn, Twinborn, Hemalurgy, Savant"
-Alendi,Scadrial,The Final Emprie,Human (Khlenni),"Seeker, Misting"
-Kwaan,Scadrial,The Final Empire,Human (Terris),Feruchemist
-Wayne,Scadrial,The Alloy of Law,Human (Terris),"Bloodmaker, Slider, Twinborn, Hemalurgy, Mistborn"
-Marasi Colms,Scadrial,The Alloy of Law,Human (Elendel),"Pulser, Misting"
+Adonalsium-Will-Remember-Our-Plight-Eventually,Canticle,The Sunlit Man,Human (Threnodite),Uninvested
+Akane,Komashi,Yumi and the Nightmare Painter,Human (Nagadan),Nightmare Painter
+Alendi,Scadrial,The Final Empire,Human (Khlenni),"Seeker, Misting"
 Allik Neverfar,Scadrial,The Bands of Mourning,Human (Malwish),Uninvested
-Steris Harms,Scadrial,The Alloy of Law,Human (Elendel),Uninvested
-Miles Dagouter,Scadrial,The Alloy of Law,Human (Terris),"Augur, Bloodmaker, Twinborn, Hemalurgy, Savant"
-Ranette,Scadrial,The Alloy of Law,Human (Unspecified),"Lurcher, Misting"
-Edward Ladrian,Scadrial,The Alloy of Law,Human (Elendel),Hemalurgy
-Telsin Ladrian,Scadrial,The Bands of Mourning,Human (Terris),"Windwhisperer, Ferring, Hemalurgy, Avatar"
-Sarene,Sel,Elantris,Human (Teo),Uninvested
-Hrathen,Sel,Elantris,Human (Fjordell),Dakhor
-Dilaf,Sel,Elantris,Human (Fjordell),Dakhor
-Galladon,Sel,Elantris,Human (Dula),"Elantrian, Worldhopper"
-Shuden,Sel,Elantris,Human (JinDo),ChayShan
-Kiin,Sel,Elantris,Human (Teo),Uninvested
-Shai,Sel,The Emperor's Soul,Human (MaiPon),"Forger, Worldhopper"
-Gaotona,Sel,The Emperor's Soul,Human (Grand),Uninvested
-Ashravan,Sel,The Emperor's Soul,Human (Grand),Uninvested
-Frava,Sel,The Emperor's Soul,Human (Grand),Uninvested
-Weedfingers,Sel,The Emperor's Soul,Human (Dzhamarian),Bloodsealer
-Tress,Lumar,Tress of the Emerald Sea,Human (Diggen's Point),Sprouter
-Charlie,Lumar,Tress of the Emerald Sea,Human (Diggen's Point),Uninvested
-Fort,Lumar,Tress of the Emerald Sea,Human (Islands of Lobu),Uninvested
+Allrianne Cett,Scadrial,The Well of Ascension,Human (Noble),"Rioter, Misting"
+Amaram,Roshar,The Way of Kings,Human (Alethi),Shardbearer
 Ann,Lumar,Tress of the Emerald Sea,Human (Unspecified),Uninvested
-Ulaam,Scadrial,The Lost Metal,Kandra (Unspecified),Shapeshifting
-Salay,Lumar,Tress of the Emerald Sea,Human (Islands of Lobu),Uninvested
-Laggart,Lumar,Tress of the Emerald Sea,Human (Unspecified),Uninvested
-Crow,Lumar,Tress of the Emerald Sea,Human (Unspecified),Spore Eater
-Riina,Sel,Secret History,Human (Unspecified),"Elantrian, Awakener, Worldhopper"
-Raboniel,Roshar,Rhythm of War,Singer (Fused),"Fused, Fannahn-im"
-Leshwi,Roshar,Oathbringer,Singer (Fused),"Fused, Shanay-im"
-Demid,Roshar,Words of Radiance,Singer (Listener),Forms of Power
-Hariel,Roshar,Oathbringer,Singer (Fused),Fused
-Hnanan,Roshar,Oathbringer,Singer (Fused),"Fused, Shanay-im"
-Kyril,Roshar,Oathbringer,Singer (Fused),Fused
-Lezian,Roshar,Rhythm of War,Singer (Fused),"Fused, Nex-im"
-Essu,Roshar,Rhythm of War,Singer (Fused),"Fused, Fannahn-im"
-Nale,Ashyn,The Way of Kings,Human (Herald),"Cognitive Shadow, Shardbearer, Knight Radiant, Skybreaker"
-Chanarach,Ashyn,Words of Radiance,Human (Herald),"Cognitive Shadow, Shardbearer"
-Vedel,Ashyn,The Way of Kings,Human (Herald),"Cognitive Shadow, Shardbearer"
-Paliah,Ashyn,Words of Radiance,Human (Herald),"Cognitive Shadow, Shardbearer"
-Shalash,Ashyn,The Way of Kings,Human (Herald),"Cognitive Shadow, Shardbearer"
-Battar,Ashyn,The Way of Kings,Human (Herald),"Cognitive Shadow, Shardbearer"
-Ishar,Ashyn,The Way of Kings,Human (Herald),"Cognitive Shadow, Shardbearer"
-Lightsong,Nalthis,Warbreaker,Human (Hallandren),"Returned, Cognitive Shadow"
-Denth,Nalthis,Warbreaker,Human (Unspecified),"Returned, Awakener, Worldhopper, Cognitive Shadow, Royal Locks"
-Tonk Fah,Nalthis,Warbreaker,Human (Pahn Kahl),Uninvested
-Jewels,Nalthis,Warbreaker,Human (Hallandren),Uninvested
+Arclomedarian,Roshar,Edgedancer,Sleepless (Aimian),Hordelings
 Arsteel,Nalthis,Warbreaker,Human (Unspecified),"Returned, Lifeless, Cognitive Shadow"
-Llarimar,Nalthis,Warbreaker,Human (Hallandren),Uninvested
+Ashravan,Sel,The Emperor's Soul,Human (Grand),Uninvested
+Ashweather Cett,Scadrial,The Well of Ascension,Human (Noble),Uninvested
+Ati,Yolen,The Final Empire,Human (Unspecified),Shard Vessel
+Auxiliary,Roshar,The Sunlit Man,Spren (Highspren),"Nahel Bond, Skybreaker, Splinter, Worldhopper"
+Axies,Roshar,The Way of Kings,Siah (Aimian),Curse of Kind
+Battar,Ashyn,The Way of Kings,Human (Herald),"Cognitive Shadow, Shardbearer"
+Beldre,Scadrial,The Hero of Ages,Human (Skaa),"Coinshot, Misting"
 Bluefingers,Nalthis,Warbreaker,Human (Pahn Kahl),Uninvested
 Blushweaver,Nalthis,Warbreaker,Human (Hallandren),"Returned, Cognitive Shadow"
-Nightblood,Nalthis,Warbreaker,Sword (nimi),"Worldhopper, Consumes Investiture, Comedic timing"
-Shashara,Nalthis,Warbreaker,Human (Unspecified),"Returned, Awakener, Worldhopper, Cognitive Shadow, Shardbearer, Royal Locks"
-Yumi,Komashi,Yumi and the Nightmare Painter,Human (Torish),"Yoki-Hijo, Cognitive Shadow"
-Nikaro,Komashi,Yumi and the Nightmare Painter,Human (Nagadan),"Nightmare Painter, Cognitive Shadow"
-Design,Roshar,Oathbringer,Spren (Cryptic),"Nahel bond, Lightweaver, Splinter, Worldhopper"
-Liyun,Komashi,Yumi and the Nightmare Painter,Human (Torish),Nightmare
-Akane,Komashi,Yumi and the Nightmare Painter,Human (Nagadan),Nightmare Painter
-Tojin,Komashi,Yumi and the Nightmare Painter,Human (Nagadan),Nightmare Painter
-Masaka,Unspecified,Yumi and the Nightmare Painter,Sleepless (Nagadan),"Worldhopper, Nightmare Painter"
-Izzy,Komashi,Yumi and the Nightmare Painter,Human (Nagadan),Nightmare Painter
-Sigzil,Roshar,The Way of Kings,Human (Makabaki),"Knight Radiant, Windrunner, Skybreaker, Shardbearer, Dawnshard, Worldhopper"
-Auxiliary,Roshar,The Sunlit Man,Spren (Highspren),"Nahel Bond, Skybreaker, Splinter, Worldhopper"
-Cinder King,Canticle,The Sunlit Man,Human (Threnodite),Charred
-Zeal,Canticle,The Sunlit Man,Human (Threnodite),Uninvested
-Adonalsium-Will-Remember-Our-Plight-Eventually,Canticle,The Sunlit Man,Human (Threnodite),Uninvested
-Silence,Threnody,Shadows for Silence in the Forests of Hell,Human (Threnodite),Uninvested
-William Ann,Threnody,Shadows for Silence in the Forests of Hell,Human (Threnodite),Uninvested
-Sebruki,Threnody,Shadows for Silence in the Forests of Hell,Human (Threnodite),Uninvested
+Bo-Ado-Mishram,Roshar,Oathbringer,Spren (Unmade),Splinter
+Breeze,Scadrial,The Final Empire,Human (Noble),"Soother, Misting"
+Chanarach,Ashyn,Words of Radiance,Human (Herald),"Cognitive Shadow, Shardbearer"
+Charlie,Lumar,Tress of the Emerald Sea,Human (Diggen's Point),Uninvested
 Chesterton Divide,Threnody,Shadows for Silence in the Forests of Hell,Human (Threnodite),Uninvested
-Vathi,First of the Sun,Sixth of the Dusk,Human (Eelakin),Aviar bond
-Dusk,First of the Sun,Sixth of the Dusk,Human (Eelakin),Aviar bond
-Mirris,First of the Sun,Sixth of the Dusk,Aviar (Streamer),Mental shielding
-Kokerlii,First of the Sun,Sixth of the Dusk,Aviar (Streamer),Mental shielding
-Sak,First of the Sun,Sixth of the Dusk,Aviar (Unspecified),Precognition
-Rysn,Roshar,The Way of Kings,Human (Thaylen),Dawnshard
 Chiri-Chiri,Roshar,Words of Radiance,Larkin (Unspecified),Consumes Investiture
-Lopen,Roshar,The Way of Kings,Human (Herdazian),"Knight Radiant, Windrunner, Shardbearer"
-Rock,Roshar,The Way of Kings,Human (Unkalaki),"Windrunner Squire, Sighted"
+Cinder King,Canticle,The Sunlit Man,Human (Threnodite),Charred
+Clubs,Scadrial,The Final Empire,Human (Skaa),"Smoker, Misting"
 Cord,Roshar,Oathbringer,Human (Unkalaki),"Sighted, Shardbearer"
-Huio,Roshar,Oathbringer,Human (Herdazian),"Knight Radiant, Windrunner, Shardbearer"
-Teft,Roshar,The Way of Kings,Human (Alethi),"Knight Radiant, Windrunner, Shardbearer"
-Skar,Roshar,The Way of Kings,Human (Alethi),"Knight Radiant, Windrunner"
+Crow,Lumar,Tress of the Emerald Sea,Human (Unspecified),Spore Eater
 Dabbid,Roshar,The Way of Kings,Human (Alethi),Uninvested
+Dalinar Kholin,Roshar,The Way of Kings,Human (Alethi),"Knight Radiant, Bondsmith, Old Magic, Shardbearer"
+Demid,Roshar,Words of Radiance,Singer (Listener),Forms of Power
+Denth,Nalthis,Warbreaker,Human (Unspecified),"Returned, Awakener, Worldhopper, Cognitive Shadow, Royal Locks"
+Design,Roshar,Oathbringer,Spren (Cryptic),"Nahel bond, Lightweaver, Splinter, Worldhopper"
+Dilaf,Sel,Elantris,Human (Fjordell),Dakhor
+Dockson,Scadrial,The Final Empire,Human (Skaa),Uninvested
+Dusk,First of the Sun,Sixth of the Dusk,Human (Eelakin),Aviar bond
+Edgli,Yolen,Warbreaker,Human (Unspecified),Shard Vessel
+Edward Ladrian,Scadrial,The Alloy of Law,Human (Elendel),Hemalurgy
+Elegy,Canticle,The Sunlit Man,Human (Threnodite),Charred
+Elend Venture,Scadrial,The Final Empire,Human (Noble),Mistborn
+Elhokar Kholin,Roshar,The Way of Kings,Human (Alethi),"Lightweaver, Shardbearer"
+Eshonai,Roshar,The Way of Kings,Singer (Listener),"Forms of Power, Willshaper"
+Essu,Roshar,Rhythm of War,Singer (Fused),"Fused, Fannahn-im"
+Felt,Scadrial,The Final Empire,Human (Noble),Worldhopper
+Fort,Lumar,Tress of the Emerald Sea,Human (Islands of Lobu),Uninvested
+Frava,Sel,The Emperor's Soul,Human (Grand),Uninvested
+Galladon,Sel,Elantris,Human (Dula),"Elantrian, Worldhopper"
+Gaotona,Sel,The Emperor's Soul,Human (Grand),Uninvested
+Gaz,Roshar,The Way of Kings,Human (Alethi),"Knight Radiant, Lightweaver"
+Glys,Roshar,Oathbringer,Spren (Mistspren),"Nahel bond, Splinter, Truthwatcher"
+Hammond,Scadrial,The Final Empire,Human (Skaa),"Pewterarm, Misting"
+Hariel,Roshar,Oathbringer,Singer (Fused),Fused
+Hnanan,Roshar,Oathbringer,Singer (Fused),"Fused, Shanay-im"
+Hoid,Yolen,Elantris,Human (Unspecified),"Lightweaver, Mistborn, Awakener, Elantrian, Worldhopper, Dawnshard, Knight Radiant"
+Hrathen,Sel,Elantris,Human (Fjordell),Dakhor
+Huio,Roshar,Oathbringer,Human (Herdazian),"Knight Radiant, Windrunner"
+Ishar,Ashyn,The Way of Kings,Human (Herald),"Cognitive Shadow, Shardbearer"
+Ivory,Roshar,Words of Radiance,Spren (Inkspren),"Nahel bond, Splinter, Elsecaller"
+Izzy,Komashi,Yumi and the Nightmare Painter,Human (Nagadan),Nightmare Painter
+Jasnah Kholin,Roshar,The Way of Kings,Human (Alethi),"Knight Radiant, Elsecaller"
+Jewels,Nalthis,Warbreaker,Human (Hallandren),Uninvested
+Jezrien,Ashyn,The Way of Kings,Human (Herald),"Cognitive Shadow, Shardbearer"
+Kaladin,Roshar,The Way of Kings,Human (Alethi),"Knight Radiant, Windrunner"
+Kalak,Ashyn,The Way of Kings,Human (Herald),"Cognitive Shadow, Shardbearer"
+Kelsier,Scadrial,The Final Empire,Human (Skaa),"Mistborn, Hemalurgy, Cognitive Shadow, Sliver, Shard Vessel"
+Khriss,Taldain,The Bands of Mourning,Human (Darksider),"Worldhopper, Starmarks"
+Kiin,Sel,Elantris,Human (Teo),Uninvested
+Kokerlii,First of the Sun,Sixth of the Dusk,Aviar (Streamer),Mental shielding
+Koravellium Avast,Yolen,Oathbringer,Dragon (Unspecified),Shard Vessel
+Kwaan,Scadrial,The Final Empire,Human (Terris),Feruchemist
+Kyril,Roshar,Oathbringer,Singer (Fused),Fused
+Laggart,Lumar,Tress of the Emerald Sea,Human (Unspecified),Uninvested
+Leras,Yolen,The Well of Ascension,Human (Unspecified),Shard Vessel
+Leshwi,Roshar,Oathbringer,Singer (Fused),"Fused, Shanay-im"
+Lezian,Roshar,Rhythm of War,Singer (Fused),"Fused, Nex-im"
+Lift,Roshar,Words of Radiance,Human (Reshi),"Knight Radiant, Edgedancer, Old Magic"
+Lightsong,Nalthis,Warbreaker,Human (Hallandren),"Returned, Cognitive Shadow"
+Liyun,Komashi,Yumi and the Nightmare Painter,Human (Torish),Nightmare
+Llarimar,Nalthis,Warbreaker,Human (Hallandren),Uninvested
+Lopen,Roshar,The Way of Kings,Human (Herdazian),"Knight Radiant, Windrunner"
+Marasi Colms,Scadrial,The Alloy of Law,Human (Elendel),"Pulser, Misting"
+Marsh,Scadrial,The Final Empire,Human (Skaa),"Seeker, Hemalurgy"
+Masaka,Unspecified,Yumi and the Nightmare Painter,Sleepless (Nagadan),"Worldhopper, Nightmare Painter, Hordelings"
+Mayalaran,Roshar,The Way of Kings,Spren (Cultivation spren),"Nahel bond, Splinter, Edgedancer, Deadeye"
+MeLaan,Scadrial,The Hero of Ages,Kandra (Seventh Generation),"Worldhopper, Shapeshifting"
+Miles Dagouter,Scadrial,The Alloy of Law,Human (Terris),"Augur, Bloodmaker, Twinborn, Hemalurgy, Savant"
+Mirris,First of the Sun,Sixth of the Dusk,Aviar (Streamer),Mental shielding
+Moash,Roshar,The Way of Kings,Human (Alethi),Shardbearer
+Nale,Ashyn,The Way of Kings,Human (Herald),"Cognitive Shadow, Shardbearer, Knight Radiant, Skybreaker"
+Navani Kholin,Roshar,The Way of Kings,Human (Alethi),"Knight Radiant, Bondsmith"
+Nazh,Threnody,Words of Radiance,Human (Threnodite),Worldhopper
+Nightblood,Nalthis,Warbreaker,Sword (nimi),"Worldhopper, Consumes Investiture, Comedic timing"
+Nightwatcher,Roshar,Oathbringer,Spren (Bondsmith),"Nahel bond, Splinter, Bondsmith, Old Magic"
+Nikaro,Komashi,Yumi and the Nightmare Painter,Human (Nagadan),"Nightmare Painter, Cognitive Shadow"
+Nikliasorm,Roshar,Dawnshard,Sleepless (Aimian),Hordelings
+Paalm,Scadrial,The Alloy of Law,Kandra (Third Generation),"Hemalurgy, Shapeshifting"
+Paliah,Ashyn,Words of Radiance,Human (Herald),"Cognitive Shadow, Shardbearer"
+Pattern,Roshar,The Way of Kings,Spren (Cryptic),"Nahel bond, Splinter, Lightweaver"
+Phendorana,Roshar,Oathbringer,Spren (Honorspren),"Nahel bond, Splinter, Windrunner"
+Quellion,Scadrial,The Hero of Ages,Human (Skaa),Hemalurgy
+Raboniel,Roshar,Rhythm of War,Singer (Fused),"Fused, Fannahn-im"
+Ranette,Scadrial,The Alloy of Law,Human (Unspecified),"Lurcher, Misting"
+Raoden,Sel,Elantris,Human (Aonic),Elantrian
+Rashek,Scadrial,The Final Empire,Human (Terris),"Feruchemist, Sliver, Mistborn, Twinborn, Hemalurgy, Savant"
+Rayse,Yolen,Oathbringer,Human (Unspecified),Shard Vessel
+Renarin Kholin,Roshar,The Way of Kings,Human (Alethi),"Knight Radiant, Truthwatcher, Voidbinder"
+Riina,Sel,Secret History,Human (Unspecified),"Elantrian, Awakener, Worldhopper"
 Rlain,Roshar,The Way of Kings,Singer (Listener),"Truthwatcher, Voidbinder"
+Rock,Roshar,The Way of Kings,Human (Unkalaki),"Windrunner Squire, Sighted"
+Rua,Roshar,Oathbringer,Spren (Honorspren),"Nahel bond, Splinter, Windrunner"
+Rysn,Roshar,The Way of Kings,Human (Thaylen),Dawnshard
+Sak,First of the Sun,Sixth of the Dusk,Aviar (Unspecified),Precognition
+Salay,Lumar,Tress of the Emerald Sea,Human (Islands of Lobu),Uninvested
+Sarene,Sel,Elantris,Human (Teo),Uninvested
+Sazed,Scadrial,The Final Empire,Human (Terris),"Feruchemist, Shard Vessel"
+Sebruki,Threnody,Shadows for Silence in the Forests of Hell,Human (Threnodite),Uninvested
+Shai,Sel,The Emperor's Soul,Human (MaiPon),"Forger, Worldhopper"
+Shalash,Ashyn,The Way of Kings,Human (Herald),"Cognitive Shadow, Shardbearer"
+Shallan Davar,Roshar,The Way of Kings,Human (Veden),"Knight Radiant, Lightweaver, Shardbearer"
+Shashara,Nalthis,Warbreaker,Human (Unspecified),"Returned, Awakener, Worldhopper, Cognitive Shadow, Shardbearer, Royal Locks"
+Shuden,Sel,Elantris,Human (JinDo),ChayShan
+Sibling,Roshar,Words of Radiance,Spren (Bondsmith),"Nahel Bond, Splinter, Bondsmith"
+Sigzil,Roshar,The Way of Kings,Human (Makabaki),"Knight Radiant, Windrunner, Skybreaker, Dawnshard, Worldhopper"
+Silence,Threnody,Shadows for Silence in the Forests of Hell,Human (Threnodite),Uninvested
+Siri,Nalthis,Warbreaker,Human (Idrian),Royal Locks
+Sja-anat,Roshar,Oathbringer,Spren (Unmade),Splinter
+Skar,Roshar,The Way of Kings,Human (Alethi),"Knight Radiant, Windrunner"
+Spook,Scadrial,The Final Empire,Human (Skaa),"Tineye, Misting, Mistborn, Hemalurgy, Savant"
+Steris Harms,Scadrial,The Alloy of Law,Human (Elendel),Uninvested
+Stormfather,Roshar,The Way of Kings,Spren (Bondsmith),"Nahel bond, Splinter, Bondsmith, Sliver, Cognitive Shadow"
+Straff Venture,Scadrial,The Final Empire,Human (Noble),"Tineye, Misting"
+Susebron,Nalthis,Warbreaker,Human (Hallandren),"Returned, Awakener, Cognitive Shadow"
+Sylphrena,Roshar,The Way of Kings,Spren (Honorspren),"Nahel bond, Splinter, Windrunner"
+Szeth,Roshar,The Way of Kings,Human (Shin),"Knight Radiant, Skybreaker, Shardbearer"
+Talenel,Ashyn,The Way of Kings,Human (Herald),"Cognitive Shadow, Shardbearer"
+Tanavast,Yolen,The Way of Kings,Human (Unspecified),Shard Vessel
+Taravangian,Roshar,The Way of Kings,Human (Kharbranthian),"Old Magic, Shard Vessel"
+Teft,Roshar,The Way of Kings,Human (Alethi),"Knight Radiant, Windrunner"
+Telsin Ladrian,Scadrial,The Bands of Mourning,Human (Terris),"Windwhisperer, Ferring, Hemalurgy, Avatar"
+TenSoon,Scadrial,The Final Empire,Kandra (Third Generation),"Blessing of Presence, Blessing of Potency, Shapeshifting"
+Timbre,Roshar,Words of Radiance,Spren (Reacher),"Nahel Bond, Splinter, Willshaper"
+Tindwyl,Scadrial,The Well of Ascension,Human (Terris),Feruchemist
+Tojin,Komashi,Yumi and the Nightmare Painter,Human (Nagadan),Nightmare Painter
+Tonk Fah,Nalthis,Warbreaker,Human (Pahn Kahl),Uninvested
+Torol Sadeas,Roshar,The Way of Kings,Human (Alethi),Shardbearer
+Tress,Lumar,Tress of the Emerald Sea,Human (Diggen's Point),Sprouter
+Ulaam,Scadrial,The Lost Metal,Kandra (Unspecified),Shapeshifting
+Uli Da,Yolen,Oathbringer,Sho Del (Unspecified),Shard Vessel
+Vasher,Nalthis,Warbreaker,Human (Unspecified),"Returned, Awakener, Worldhopper, Cognitive Shadow, Shardbearer"
+Vathi,First of the Sun,Sixth of the Dusk,Human (Eelakin),Aviar bond
+Vedel,Ashyn,The Way of Kings,Human (Herald),"Cognitive Shadow, Shardbearer"
+Venli,Roshar,Words of Radiance,Singer (Listener),"Forms of Power, Willshaper"
+Vin,Scadrial,The Final Empire,Human (Skaa),"Mistborn, Hemalurgy, Sliver, Shard Vessel"
+Vivenna,Nalthis,Warbreaker,Human (Idrian),"Royal Locks, Awakener, Shardbearer, Worldhopper"
+Waxillium Ladrian,Scadrial,The Alloy of Law,Human (Terris),"Mistborn, Twinborn, Hemalurgy, Coinshot, Skimmer"
+Wayne,Scadrial,The Alloy of Law,Human (Terris),"Bloodmaker, Slider, Twinborn, Hemalurgy, Mistborn"
+Weedfingers,Sel,The Emperor's Soul,Human (Dzhamarian),Bloodsealer
+William Ann,Threnody,Shadows for Silence in the Forests of Hell,Human (Threnodite),Uninvested
+Wyndle,Roshar,Words of Radiance,Spren (Cultivation spren),"Nahel bond, Splinter, Edgedancer"
+Xisis,Yolen,Tress of the Emerald Sea,Dragon (Unspecified),"Worldhopper, Awakener"
+Yelamaiszin,Roshar,Dawnshard,Sleepless (Aimian),Hordelings
+Yumi,Komashi,Yumi and the Nightmare Painter,Human (Torish),"Yoki-Hijo, Cognitive Shadow"
+Zane Venture,Scadrial,The Well of Ascension,Human (Noble),"Mistborn, Hemalurgy"
+Zeal,Canticle,The Sunlit Man,Human (Threnodite),Uninvested
