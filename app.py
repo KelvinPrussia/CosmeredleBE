@@ -8,7 +8,6 @@ from flask_cors import CORS
 import db
 import parser
 
-
 app = Flask('CosmeredleAPI')
 CORS(app)
 api = Api(app)
@@ -99,8 +98,10 @@ def compare_lists(guess_list, correct_list):
 def set_correct_char():
     print("Attempting to set correct char")
     global correct_char
-    count = db.get_character_count()
-    rand_id = random.randrange(1, count)
+    unused_ids = db.get_unused_ids()
+
+    rand_num = random.randrange(0, len(unused_ids) - 1)
+    rand_id = unused_ids[rand_num]
     date = datetime.now(UTC).date()
     daily_char = db.get_prev_char_by_date(date)
 
@@ -108,10 +109,6 @@ def set_correct_char():
         print("char already set for ", date)
         correct_char = db.get_character_by_id(daily_char)
         return
-
-    if db.get_prev_char_by_id(rand_id):
-        print("char with id: ", rand_id, " already used")
-        set_correct_char()
     else:
         char = db.get_character_by_id(rand_id)
         correct_char = char

@@ -59,6 +59,29 @@ def get_names():
             release_db_connection(conn)
 
 
+def get_unused_ids():
+    conn = None
+    try:
+        conn = get_db_connection()
+        if conn is None:
+            raise Exception("Failed to get a connection from the pool")
+
+        cur = conn.cursor()
+        cur.execute("SELECT id FROM characters WHERE id NOT IN (SELECT id FROM prev_chars);")
+        names = cur.fetchall()
+        cur.close()
+        names_list = [tup[0] for tup in names]
+        print("DB: Returned unused ids")
+        return names_list
+
+    except Exception as error:
+        print(f"Error: {error}")
+        return []
+    finally:
+        if conn:
+            release_db_connection(conn)
+
+
 def get_character_by_name(name):
     conn = None
     try:
