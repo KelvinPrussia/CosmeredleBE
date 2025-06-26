@@ -53,24 +53,24 @@ def check_matches(guess, correct):
                     "abilities": [guess["abilities"], 2]}
 
     # Check if names match, if yes then return true for all matches
-    if guess["name"] == correct["name"]:
+    if guess["name"].lower() == correct["name"].lower():
         return guess_result
 
     for attribute in correct:
         match attribute:
             case "species":
-                guess_species = guess[attribute]
-                correct_species = correct[attribute]
+                guess_species = guess[attribute].lower()
+                correct_species = correct[attribute].lower()
                 if guess_species == correct_species:
                     continue
                 elif "(" in guess_species and correct_species:
                     guess_result[attribute][1] = compare_prefix(guess_species, correct_species)
 
             case "abilities":
-                guess_result[attribute][1] = compare_lists(guess[attribute], correct[attribute])
+                guess_result[attribute][1] = compare_lists(guess[attribute].lower(), correct[attribute].lower())
 
             case _:
-                if guess[attribute] == correct[attribute]:
+                if guess[attribute].lower() == correct[attribute].lower():
                     continue
                 else:
                     guess_result[attribute][1] = 0
