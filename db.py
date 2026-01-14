@@ -67,7 +67,7 @@ def get_unused_ids():
             raise Exception("Failed to get a connection from the pool")
 
         cur = conn.cursor()
-        cur.execute("SELECT id FROM characters WHERE id NOT IN (SELECT id FROM prev_chars);")
+        cur.execute("SELECT id FROM characters WHERE id NOT IN (SELECT id FROM prev_chars ORDER BY date DESC LIMIT 50);")
         names = cur.fetchall()
         cur.close()
         names_list = [tup[0] for tup in names]
